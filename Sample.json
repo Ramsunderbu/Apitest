@@ -1,0 +1,6 @@
+{"name":"Ram",
+"age":29.0,
+"marriedstatus":true,
+"phone":[9788572777,9566671744,7845047820],
+"address":{"street":"Periya Aranmanai Strret","district":"Ariyalur"},
+"addressObject":{"street":"Periya Aranmanai Strret","district":"Ariyalur"}}
